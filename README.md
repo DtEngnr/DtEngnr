@@ -36,10 +36,25 @@ I build scalable data platforms, data quality systems, AI pipelines, and interna
 
 ---
 
-### 📌 Featured Repositories
+### 💼 Experience
 
-- **[dbt-scooters](https://github.com/DtEngnr/dbt-scooters)** — dbt project exploring data modeling and transformations
-- **[technical_specification](https://github.com/DtEngnr/technical_specification)** — step-by-step walkthrough of building a technical specification
+**AUTODOC** · Data Engineer (Middle+) · Berlin, Germany (Remote) · *Jul 2024 – Present*
+- Owns the department's Data Platform end-to-end: architecture, standards, and technology decisions
+- Built a self-service Excel/CSV upload platform for **37 DWH tables**, cutting business data onboarding from days to minutes
+- Developed an ML-based system detecting hidden product kits without bundle metadata, surfacing **150K+** kits for pricing optimization
+- Represents the company in technical discussions with enterprise vendors including **dbt Labs** and **Soda**
+
+**Vodafone** · Data Engineer · İzmir, Türkiye (On-site) · *Jun 2022 – Jul 2024*
+- Consolidated two data warehouses into a single enterprise platform, migrating **~800 GB** across **400+ tables**
+- Optimized an Airflow pricing pipeline, cutting memory usage from **~600 GB to <1 GB** and eliminating recurring OOM failures
+- Designed platform reliability KPIs for Airflow and Metabase, introducing the **DAG Reliability Index**, lifting reliability to **97.7%**
+- Coordinated the migration of **280** production Airflow DAGs during a platform-wide upgrade
+
+---
+
+### 🎓 Education
+
+**B.Sc. in Computer Science** — Dokuz Eylül University, Izmir, Türkiye · *Sept. 2020 – Jun 2024*
 
 ---
 
