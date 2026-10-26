@@ -1,14 +1,14 @@
-# Hi, I'm Danat 👋
+# Hi, I'm Danat
 
-**Data Engineer | Platform Engineering** — technical owner of a department's Data Platform, driving engineering standards, infrastructure governance, and technology decisions across the organization.
+**Senior Data Engineer / Data Architect** building and operating production data platforms.
 
-I build scalable data platforms, data quality systems, AI pipelines, and internal developer tooling. I also advise cross-functional teams on platform architecture and represent the company in technical discussions with enterprise vendors like dbt Labs and Soda.
+I work across streaming CDC, orchestration, data warehousing, data modeling, data quality, and observability. My experience spans greenfield platform ownership and enterprise engineering, including a data platform supporting business operations across **29 countries**.
 
-📍 UTC+5 · 🌐 English, Turkish, Russian
+UTC+5 · English, Turkish, Russian
 
----
+[LinkedIn](https://www.linkedin.com/in/danat-baidullayev/) · [Email](mailto:danatbaidullayev@gmail.com)
 
-### 🛠️ Tech Stack
+## Core Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
@@ -18,47 +18,36 @@ I build scalable data platforms, data quality systems, AI pipelines, and interna
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=clickhouse&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
----
+**Also:** Debezium, Apache Iceberg, Docker, GitHub Actions, Prometheus, Grafana.
 
-### 📊 Highlights
+## Selected Impact
 
-- 🎯 Built an enterprise **Data Quality platform**, raising Data Quality Score from **67 → 97** with **1,060+** automated checks
-- ⚙️ Engineered an Airflow memory-profiling framework across **~800 DAGs / 3,000+ tasks**, cutting monthly OOM failures from **45 → ~4**
-- 🤖 Architected an **AI platform (LLM + Computer Vision)** processing **40,000+** multilingual documents, saving thousands of hours of manual review
-- 💰 Uncovered **€1M/month** in previously unreported revenue through data reconstruction and analysis
-- 🗄️ Optimized an **18B-row dataset**, reducing storage by **92.5%** (2.4 TB → 180 GB) while improving query performance up to **2×**
+- Architected **Kafka + Debezium CDC for 200+ Oracle tables**, reducing source-to-platform latency from **3 hours to under 5 minutes**.
+- Engineered **Airflow memory profiling across ~800 DAGs and 3,000+ tasks**, reducing monthly OOM failures from **45 to ~4**.
+- Built an enterprise **Data Quality platform with 1,060+ automated checks**, raising Data Quality Score from **67 to 97** and reducing rule implementation time by **75%**.
+- Optimized an **18B-row analytical dataset** through sharding and compression tuning, reducing storage by **92.5% (2.4 TB → 180 GB)** and improving query performance by **up to 2×**.
+- Identified **€1M in monthly revenue missing from analytical reporting** by reconstructing untracked product-kit sales using SQL.
 
----
+## Experience
 
-### 💼 Experience
+### [Rosa Santana](https://rosasantana.com/) · Data Architect
+Apr 2026 – Present · Remote
 
-**AUTODOC** · Data Engineer (Middle+) · Berlin, Germany (Remote) · *Jul 2024 – Present*
-- Owns the department's Data Platform end-to-end: architecture, standards, and technology decisions
-- Built a self-service Excel/CSV upload platform for **37 DWH tables**, cutting business data onboarding from days to minutes
-- Developed an ML-based system detecting hidden product kits without bundle metadata, surfacing **150K+** kits for pricing optimization
-- Represents the company in technical discussions with enterprise vendors including **dbt Labs** and **Soda**
+Built and owned the company's data platform end to end: Oracle CDC, ClickHouse/dbt, Data Vault modeling, Data Contracts, automated quality checks, monitoring, and BI.
 
-**Vodafone** · Data Engineer · İzmir, Türkiye (On-site) · *Jun 2022 – Jul 2024*
-- Consolidated two data warehouses into a single enterprise platform, migrating **~800 GB** across **400+ tables**
-- Optimized an Airflow pricing pipeline, cutting memory usage from **~600 GB to <1 GB** and eliminating recurring OOM failures
-- Designed platform reliability KPIs for Airflow and Metabase, introducing the **DAG Reliability Index**, lifting reliability to **97.7%**
-- Coordinated the migration of **280** production Airflow DAGs during a platform-wide upgrade
+### [AUTODOC](https://www.autodoc.de/) · Senior Data Engineer
+Nov 2023 – Apr 2026 · Remote · Berlin, Germany
 
----
+Built enterprise data quality and Airflow profiling frameworks, migrated workflows to a Snowflake/dbt lakehouse with Apache Iceberg on GCP, and deployed an LLM/computer vision service for 40,000+ multilingual Safety Data Sheets using Kubernetes.
 
-### 🎓 Education
+### [Vodafone](https://www.vodafone.com.tr/) · Data Engineer
+Oct 2021 – Nov 2023 · Hybrid · İzmir, Türkiye
 
-**B.Sc. in Computer Science** — Dokuz Eylül University, Izmir, Türkiye · *Sept. 2020 – Jun 2024*
+Optimized large-scale analytical storage and PySpark pipelines processing 5+ TB daily, consolidated two data warehouses, and coordinated the migration of 280 production Airflow DAGs.
 
----
+## Education
 
-### 📫 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danat-baidullayev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:danatbaidullayev@gmail.com)
+**B.Sc. in Computer Science** · Dokuz Eylül University · İzmir, Türkiye · Sep 2020 – Jun 2024
