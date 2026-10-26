@@ -4,7 +4,7 @@
 
 I work across streaming CDC, orchestration, data warehousing, data modeling, data quality, and observability. My experience spans greenfield platform ownership and enterprise engineering, including a data platform supporting business operations across **29 countries**.
 
-UTC+5 · English, Turkish, Russian
+UTC+3 · English, Turkish, Russian
 
 [LinkedIn](https://www.linkedin.com/in/danat-baidullayev/) · [Email](mailto:danatbaidullayev@gmail.com)
 
